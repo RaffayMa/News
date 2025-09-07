@@ -1,7 +1,6 @@
 import requests
 
 def getNews():
-    api_key = "5a2ec5b716fb43b88bc51065b6fb1a81"
 
     wall_st_url = "https://newsapi.org/v2/everything?domains=wsj.com&apiKey="+api_key
     tech_crunch_head_url = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey="+api_key
