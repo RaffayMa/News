@@ -2,7 +2,7 @@
 .DS_Store
 __pycache__/
 .env/
-config.python
+config.py
 
 #Other project files
         ../.DS_Store
